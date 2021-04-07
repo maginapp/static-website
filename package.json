@@ -1,0 +1,19 @@
+{
+  "name": "magina-static-website",
+  "version": "1.0.0",
+  "description": "static-website",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maginapp/static-website.git"
+  },
+  "author": "magina.cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maginapp/static-website/issues"
+  },
+  "homepage": "https://github.com/maginapp/static-website#readme"
+}
