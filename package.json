@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maginapp/static-website/issues"
   },
-  "homepage": "https://github.com/maginapp/static-website#readme"
+  "homepage": "https://github.com/maginapp/static-website#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
 }
