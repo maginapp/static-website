@@ -18,6 +18,7 @@
   "homepage": "https://github.com/maginapp/static-website#readme",
   "dependencies": {
     "cross-env": "^7.0.3",
+    "glob": "^7.1.6",
     "koa": "^2.13.1",
     "sharp": "^0.28.1"
   }
