@@ -4,7 +4,7 @@
   "description": "static-website",
   "main": "index.js",
   "scripts": {
-    "build": ""
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/maginapp/static-website#readme",
   "dependencies": {
-    "koa": "^2.13.1"
+    "cross-env": "^7.0.3",
+    "koa": "^2.13.1",
+    "sharp": "^0.28.1"
   }
 }
