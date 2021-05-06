@@ -14,7 +14,7 @@ const params = {
   dir: './src/images-wait-sharp',
   newDir: './dist/images/images-wait-sharp',
   dirType: '/**/*',
-  formatType: '',
+  formatType: 'webp',
   quality: 80,
   copyImg: true
 }
