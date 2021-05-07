@@ -1,5 +1,11 @@
 # 静态资源服务
 
+## Usage
+
+> https://maginapp.github.io/static-website/images/sharing/config/webpack-base-entry-1.png
+> 
+> dist/images/sharing/config/webpack-base-entry-1.png
+
 ## 计划
 
 1. 初期上传静态图片
